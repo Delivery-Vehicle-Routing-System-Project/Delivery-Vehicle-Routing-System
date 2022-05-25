@@ -1,0 +1,8 @@
+Agent: 1
+Weightcapacity: 350
+Agent: 2
+Weightcapacity: 350
+Agent: 3
+Weightcapacity: 350
+Agent: 4
+Weightcapacity: 350
